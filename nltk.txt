@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 stopwords
+=======
+stopwords
+>>>>>>> 859aee99ad13c12748a3d16c814bba73eaa6d868
 punkt
